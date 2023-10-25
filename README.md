@@ -42,7 +42,7 @@ To interact with the REST API and test the endpoints, you can use Postman or any
 
 ### Building and Testing
 ![Building and Testing](./screenshot/Building.png)
-![Docker Image Build](./screenshot/Build successful.png)
+![Docker Image Build](./screenshot/BuildSuccessful.png)
 
 ### Docker Image Build
 ![Docker Image Build](./screenshot/DockerImagebuild.png)
