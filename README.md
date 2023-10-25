@@ -41,14 +41,14 @@ To interact with the REST API and test the endpoints, you can use Postman or any
 ## Screenshots
 
 ### Building and Testing
-![Building and Testing](./screenshot/Building.png)
-![Docker Image Build](./screenshot/BuildSuccessful.png)
+![Building and Testing](screenshot/Building.png)
+![Docker Image Build](screenshot/BuildSuccessful.png)
 
 ### Docker Image Build
-![Docker Image Build](./screenshot/DockerImagebuild.png)
+![Docker Image Build](screenshot/DockerImagebuild.png)
 
 ### Deployment
-![Deployment](./screenshots/Deploy)
+![Deployment](screenshots/Deploy)
 
 ## Additional Notes
 
